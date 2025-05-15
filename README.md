@@ -6,7 +6,7 @@ C# application integrated with a database management system to streamline hospit
 - 📑 Easy access to reports  
 - 🛠️ Centralized admin oversight  
 
-Designed for doctors, nurses, staff, and administrators to collaborate efficiently and ensure better patient care.
+Designed for doctors, nurses, staff and administrators to collaborate efficiently and ensure better patient care.
 
 ---
 
@@ -15,38 +15,37 @@ Designed for doctors, nurses, staff, and administrators to collaborate efficient
 
 ---
 
-# ⚙️ Installation & How to Run
+## ⚙️ Installation & How to Run 
+  
   ### Prerequisites
-  - .NET Framework (version 4.7.2 or later)
-  - Microsoft SQL Server 
-  - Visual Studio (for building and running the app)
+    - .NET Framework (version 4.7.2 or later)
+    - Microsoft SQL Server 
+    - Visual Studio (for building and running the app)
 
----
----
   ### Setup Instructions
   - Clone or Download the Repository
-  
   ```bash
     git clone <https://github.com/IshtishadAlamTishad/Automated-Hospital-Management-System->
     cd Automated-Hospital-Management-System
   ```
   ### Database Setup
-  - Open Microsoft SQL Server Management Studio
-  - Execute the provided SQL scripts to create the database schema and seed data
-  - Update the connection string in app.config or web.config with your DB credentials
+    - Open Microsoft SQL Server Management Studio
+    - Execute the provided SQL scripts to create the database schema and seed data
+    - Update the connection string in app.config or web.config with your DB credentials
   
   ### Build and Run
-  - Open the .sln solution file in Visual Studio
-  - Restore NuGet packages if prompted
-  - Build the solution
-  - Run the application
+    - Open the .sln solution file in Visual Studio
+    - Restore NuGet packages if prompted
+    - Build the solution
+    - Run the application
   
   ### Login & Use
-  - Login with appropriate credentials (Doctor, Nurse, Staff, Admin)
-  - Navigate through your role-based features
+    - Login with appropriate credentials (Doctor, Nurse, Staff, Admin)
+    - Navigate through your role-based features
 
 ---
 ## 🖼️ Screenshots
+
   ### Here are some features shown:
   ### 🔐 Login
   <p float="left">
@@ -110,3 +109,9 @@ The Automated Hospital Management System brings together all stakeholders-patien
 
 ---
 
+*Contributors :*
+
+    Mohammed Istishad Alam Tishad (CSE,AIUB)
+    Rimon Pramanik (CSE,AIUB)
+    Md Faiyaz Mutadayin (CSE,AIUB)
+    Tamzid Iqbal (CSE,AIUB)
