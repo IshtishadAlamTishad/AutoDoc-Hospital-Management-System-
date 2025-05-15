@@ -113,5 +113,5 @@ The Automated Hospital Management System brings together all stakeholders-patien
 
     Mohammed Istishad Alam Tishad (CSE,AIUB)
     Rimon Pramanik (CSE,AIUB)
-    Md Faiyaz Mutadayin (CSE,AIUB)
     Tamzid Iqbal (CSE,AIUB)
+    Md Faiyaz Mutadayin (CSE,AIUB)
